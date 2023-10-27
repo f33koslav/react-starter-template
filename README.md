@@ -1,4 +1,4 @@
-# Reactjs boilerplate project with Typescript and Sass(SCSS)
+# Reactjs boilerplate project with Typescript, Sass(SCSS) and optional state management support
 
 ## Project Structure
 

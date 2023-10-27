@@ -1,4 +1,4 @@
-$myColor: red;
+@use 'styles/globals.scss';
 
 h1 {
   color: $myColor;

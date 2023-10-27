@@ -24,9 +24,6 @@ TBD - description of every folder/file listed bellow
  Design System?
 
 ## Next steps
- Eject react script and edit npm scripts for runnig, testing and building.
+ Eject react script and edit npm scripts for running, testing and building.
 
  Prepare pm2 ecosystem files.
-
-## Contribution
-There is no plan about making this for public, but feel free to use template and change it for your purpose <3

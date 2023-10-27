@@ -3,22 +3,20 @@
 ## Project Structure
 
 TBD - description of every folder/file listed bellow
-- assets
-- components
-- data
-
+### assets
+### components
+### data
 place to store your data, JSON for example, this is not required if you use Redux, MobX or Pinia, this is not required
-- hooks
-- lib
-- pages
-- store
-
+### hooks
+### lib
+### pages
+### store
 place for you state management logic, Redux, Mobx, Pinia etc. this is not required
-- styles
-- utils
-- App.scss
-- App.tsx
-- index.tsx
+### styles
+### utils
+### App.scss
+### App.tsx
+### index.tsx
 
 ## Styling
 

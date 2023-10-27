@@ -1,5 +1,5 @@
-@use 'styles/globals.scss';
+@use 'styles/globals' as globals;
 
 h1 {
-  color: $myColor;
+  color: globals.$myColor;
 }

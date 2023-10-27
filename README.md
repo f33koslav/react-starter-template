@@ -6,13 +6,13 @@ TBD - description of every folder/file listed bellow
 ### assets
 ### components
 ### data
-place to store your data, JSON for example, this is not required if you use Redux, MobX or Pinia, this is not required
+place to store your data, JSON for example, this is not required if you use Redux, MobX or Pinia, this is not required, delete it if you dont need it
 
 ### hooks
 ### lib
 ### pages
 ### store
-place for you state management logic, Redux, Mobx, Pinia etc. this is not required
+place for you state management logic, Redux, Mobx, Pinia etc. this is not required, delete it if you dont need it
 
 ### styles
 ### utils

@@ -31,3 +31,5 @@ place for you state management logic, Redux, Mobx, Pinia etc. this is not requir
  Eject react script and edit npm scripts for running, testing and building.
 
  Prepare pm2 ecosystem files.
+
+ nodemon hot reload dev
